@@ -1,0 +1,17 @@
+开始记录20241123153339
+TX : ID - 721, DATA - 3, 22, fd, ff, 0, 0, 0, 0time：33:39:68
+RX:ID 7a1  Data:
+07 62 fd ff ff ff ff ff time：33:39:71
+TX : ID - 721, DATA - 2, 10, 3, 0, 0, 0, 0, 0time：33:39:558
+RX:ID 7a1  Data:
+03 7f 10 7e 55 55 55 55 time：33:39:561
+RX:ID 7a1  Data:
+TX : ID - 721, DATA - 4, 31, 1, ff, 2, 0, 0, 0time：33:40:69
+03 7f 31 7f 55 55 55 55 time：33:40:73
+TX : ID - 721, DATA - 2, 10, 2, 0, 0, 0, 0, 0time：33:40:571
+RX:ID 7a1  Data:
+06 50 02 00 32 01 f4 55 time：33:40:574
+TX : ID - 721, DATA - 2, 27, 5, 0, 0, 0, 0, 0time：33:41:84
+RX:ID 7a1  Data:
+03 7f 27 37 55 55 55 55 time：33:41:88
+结束记录
